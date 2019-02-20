@@ -5,3 +5,5 @@
 - Updated to feature/new-feature
 
 - Merged from feature
+
+- Final change from develop branch
